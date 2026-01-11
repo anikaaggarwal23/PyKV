@@ -1,0 +1,2 @@
+{"op": "SET", "key": "test", "value": "123"}
+{"op": "DEL", "key": "k995"}

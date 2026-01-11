@@ -1,0 +1,4 @@
+CACHE_CAPACITY = 1000
+WAL_PATH = "data/pykv.wal"
+REPLICA_WAL_PATH = "data/replica.wal"
+COMPACTION_INTERVAL = 60
